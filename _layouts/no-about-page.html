@@ -23,7 +23,7 @@
                 <!-- <p>Lorem ipsum dolor amet nullam consequat etiam feugiat</p> -->
                 </div>
                 <div class="meta">
-                  <time class="published" datetime="{{ page.date | date: "%F" }}">{{ page.date | date: "%B %d, %Y" }}</time>
+                  <time class="published" datetime="{{ page.date | date: "%F" }}">{{ page.date | date: "%Y-%m-%d" }}</time>
                   {% for category in page.categories limit:1 %}
                     <a href="#">{{ category }}</a>
                   {% endfor %}
