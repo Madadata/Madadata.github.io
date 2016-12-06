@@ -27,4 +27,4 @@ image: /images/2016/11/16/hero.png
 
 目前，马达数据的商业智能系统已进入了最后的研发阶段，公司目前已经与联合国开发计划署（UNDP）、商派（Shopex）以及南极人等公司达成合作，今年 12 月就会率先放出试用版供企业客户使用。
 
-> 原链接地址 [创头条](http://www.ctoutiao.com/105932.html)
+> 原链接地址 [创头条](http://www.ctoutiao.com/105932.html)、[搜狐](http://mt.sohu.com/20161117/n473416068.shtml)
