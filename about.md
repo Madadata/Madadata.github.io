@@ -1,12 +1,9 @@
 ---
 layout: no-about-page
-title: About
+title: 关于马达数据
 permalink: /about/
-image: /images/pic02.jpg
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+马达数据成立于 2015 年，是专注于提供新一代商务智能 (BI) 产品的初创企业。我们的 BI 产品目的是帮助企业更快、更好的采集、分析企业内部及外接数据。与传统的 BI 产品不同，我们的产品后端可以自动整合多数据源，不用找 IT 部门也能满足客户提出的新需求。我们的产品强调高效查询、快速上手、交互性展示、多数据融合、安全性和细致的权限管理。业务人员能直接上手操作，熟练运用这个工具，最大化地深入挖掘数据、高效分析数据、清晰展示数据，从而帮助业务人员和领导层快速制定商业决策。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+请访问我们的[官网](https://www.madadata.com)或者通过邮箱 hi@madadata.com 联系我们。
