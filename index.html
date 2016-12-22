@@ -28,7 +28,7 @@ layout: main
         <li><a href="{{ post.url }}" class="button big">继续阅读</a></li>
       </ul>
       <ul class="stats">
-        {% for tag in post.tags limit:3 %}
+        {% for tag in post.tags limit:5 %}
           <li><a href="#">{{ tag }}</a></li>
         {% endfor %}
         <!--
