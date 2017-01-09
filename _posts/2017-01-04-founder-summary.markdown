@@ -61,4 +61,4 @@ image: /images/2017/1/4/newyear.jpg
 ![alt text](/images/2017/1/4/lake.jpeg)
 
 
-> 原链接地址 [马达数据官方微信公众号](http://mp.weixin.qq.com/s/SxwqNqc1_2vG78e-PeDFZw)
+> 原链接地址 [马达数据官方微信公众号](http://mp.weixin.qq.com/s/SxwqNqc1_2vG78e-PeDFZw)，[创头条](http://www.ctoutiao.com/119015.html)
