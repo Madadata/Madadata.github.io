@@ -922,10 +922,20 @@
 		}
 
 		h1 {
-			color: _palette(accent2, fg);
+			color: _palette(accent2, fg-bold);
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
+		}
+
+		h3 {
+			color: _palette(accent2, fg);
+			font-size: 0.9em;
+		}
+
+		p {
+			color: _palette(accent2, fg);
+			font-size: 0.65em;
 		}
 
 		.image.avatar {

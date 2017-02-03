@@ -1,22 +1,22 @@
-title: Strata by HTML5 UP
+title: 马达数据官方博客
+slogan: 从数据到价值，从未如此简单
+address: 北京市朝阳区景华南街1号楼旺座中心公寓1606
 description: >
-  **I am Strata**, a super simple
-  responsive site template freebie
-  crafted by [HTML5 UP](http://html5up.net).
-copyright: Untitled
+  马达数据向企业提供新一代商业智能BI系统，整合、分析及可视化企业内部及外接大数据：实时精确，互动直观，安全可靠。
+copyright: 北京马达加科技有限公司
 sass:
   sass_dir: assets/sass
-url: http://localhost:4000
-disqus_shortname: stratajekylldemo
-facebook_username:
-twitter_username: "#"
-linkedin_username: "#"
-instagram_username:
-pinterest_username:
-flickr_username:
-github_username:  "#"
+url: "https://Madadata.github.io"
+# disqus_shortname: stratajekylldemo
+# facebook_username:
+# twitter_username:
+linkedin_username: "10436847"
+# instagram_username:
+# pinterest_username:
+# flickr_username:
+github_username:  "Madadata"
 feed_icon: rss
-email: "#"
+email: "hi@madadata.com"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
