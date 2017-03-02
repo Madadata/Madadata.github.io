@@ -30,7 +30,7 @@ tags: 马达数据 商业智能 BI 数据分析 数据平台
 
 
 
-##五个你应该问自己的问题
+## 五个你应该问自己的问题
 
 
 ### Q1：“我有什么样的数据？我想要分析什么样的数据？”
@@ -67,7 +67,7 @@ BI 服务的范畴现正飞速扩大。许多方案能够提供一整套 BI 平�
 
 
 
-##五个你应问 BI 服务商的问题
+## 五个你应问 BI 服务商的问题
 
 
 ### Q6：“你所提供的解决方案有多全面？可以包含哪些公司数据？”
@@ -101,4 +101,5 @@ BI 服务的范畴现正飞速扩大。许多方案能够提供一整套 BI 平�
 
 
 
-> 原链接地址 [马达数据官方公众平台](https://mp.weixin.qq.com/s?__biz=MzIyOTEwMDA1Mw==&mid=2650453251&idx=1&sn=895280a5b1f2084208f59cda2c77b1c1&key=6dff9cc562b5e5b3a2219dcf5a87beb0ac367912d2d6230250a5f2f1cf9eff08cbd26eeb1b28a2db58ddcfb69ef42bf5fba0bb857a7964954d84c8c748c47f2569a17224ca06953b89765d310f266e2a&ascene=0&uin=MTgyMDI1MzUwMA%3D%3D&devicetype=iMac+MacBook9%2C1+OSX+OSX+10.12.1+build(16B2555)&version=12000510&nettype=WIFI&fontScale=100&pass_ticket=w%2F77nUh%2FHNecxOn1YITjsV73wA33lRyXO1QxvPs6zb5E%2BCwFkT0S%2FicP38YqOWyp), [Solution Review](https://solutionsreview.com/business-intelligence/get-a-free-business-intelligence-software-buyers-guide/)
+> 原链接地址 [马达数据官方公众平台](https://mp.weixin.qq.com/s?__biz=MzIyOTEwMDA1Mw==&mid=2650453251&idx=1&sn=895280a5b1f2084208f59cda2c77b1c1&key=6dff9cc562b5e5b3a2219dcf5a87beb0ac367912d2d6230250a5f2f1cf9eff08cbd26eeb1b28a2db58ddcfb69ef42bf5fba0bb857a7964954d84c8c748c47f2569a17224ca06953b89765d310f266e2a&ascene=0&uin=MTgyMDI1MzUwMA%3D%3D&devicetype=iMac+MacBook9%2C1+OSX+OSX+10.12.1+build(16B2555)&version=12000510&nettype=WIFI&fontScale=100&pass_ticket=w%2F77nUh%2FHNecxOn1YITjsV73wA33lRyXO1QxvPs6zb5E%2BCwFkT0S%2FicP38YqOWyp),  [Solution Review](https://solutionsreview.com/business-intelligence/get-a-free-business-intelligence-software-buyers-guide/)
+
