@@ -24,6 +24,6 @@ tags: 马达数据 商业智能 BI 数据分析 招聘
 
 【观看时长  2分40秒】
 
-<embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=k0380rtj3kp&auto=0" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=k0380rtj3kp&auto=0" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash" />
 
 > 原链接地址 [马达数据官方公众平台](https://mp.weixin.qq.com/s?__biz=MzIyOTEwMDA1Mw==&mid=2650453290&idx=1&sn=f238564da4e22e634d0955882ce9b442&scene=19#wechat_redirect),  [今日头条](http://www.365yg.com/item/6395742346620699138/),  [腾讯能视频](https://v.qq.com/x/page/k0380rtj3kp.html)
