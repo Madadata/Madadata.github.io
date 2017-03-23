@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "NodeJS: 如何在 Express 中处理异步错误"
-date:   2017-03-21 17:30:00
+date:   2017-03-21 17:30:00+08:00
 categories: 技术笔记
 tags: 马达数据 商业智能 BI 技术 编程
 ---
 
 ---------
->摘要：如何在 Express 中使用 Promise, Generators 和 Async/Await 处理异步错误
+> ### 摘要：如何在 Express 中使用 Promise, Generators 和 Async/Await 处理异步错误
 --------
 
 *翻译&编辑/鹤爷*
@@ -74,11 +74,11 @@ app.get('/', function (req, res, next) {
   queryDb(function (err, data) {
     if (err) return next(err)
     // 处理数据
- 
+
     makeCsv(data, function (err, csv) {
       if (err) return next(err)
       // 处理 csv
- 
+
     })
   })
 })
