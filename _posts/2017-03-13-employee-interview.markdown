@@ -2,7 +2,7 @@
 layout: post
 title:  马达人物采访 | 解读不一样的马达数据
 date:   2017-03-13 17:00:00+08:00
-categories: 行业洞察
+categories: 马达动态
 tags: 马达数据 商业智能 BI 数据分析 招聘
 ---
 
