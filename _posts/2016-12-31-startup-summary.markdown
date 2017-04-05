@@ -2,7 +2,7 @@
 layout: post
 title:  转载:2016年的最后一天，15位创业者向我们交出了成绩单
 date:   2016-12-31 17:30:00+08:00
-categories: news
+categories: 马达动态
 tags: 马达数据 创业 2016 数据 总结
 image: /images/2016/12/31/newseed.png
 ---

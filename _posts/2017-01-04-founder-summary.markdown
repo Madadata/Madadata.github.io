@@ -2,7 +2,7 @@
 layout: post
 title:  马达数据创始人 | 2016这一年
 date:   2017-01-04 10:30:00+08:00
-categories: news
+categories: 马达动态
 tags: 马达数据 创业 2016 数据 总结
 image: /images/2017/1/4/newyear.jpg
 ---

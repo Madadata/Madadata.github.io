@@ -2,7 +2,7 @@
 layout: post
 title:  "以科技之名，这次我们为扶贫做了点微薄贡献”"
 date:   2016-12-02 12:05:00+08:00
-categories: news
+categories: 马达动态
 tags: 马达数据 联合国 可视化 数据 扶贫
 image: /images/2016/12/2/1.jpg
 ---

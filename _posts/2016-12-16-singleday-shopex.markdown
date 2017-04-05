@@ -2,7 +2,7 @@
 layout: post
 title:  "商派云起联合马达数据为商家提供“全网订单物流实况大屏”"
 date:   2016-11-11 16:35:00+08:00
-categories: news
+categories: 马达动态
 tags: 马达数据 物流 可视化 数据 分析
 image: /images/2016/12/16/商派.jpg
 ---

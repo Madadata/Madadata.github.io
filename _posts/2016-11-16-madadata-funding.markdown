@@ -2,7 +2,7 @@
 layout: post
 title:  "商业智能系统究竟有多值钱？估值千万的马达数据完成了天使轮融资"
 date:   2016-11-16 13:55:00+08:00
-categories: news
+categories: 马达动态
 tags: 马达数据 融资 新闻
 image: /images/2016/11/16/hero.png
 ---

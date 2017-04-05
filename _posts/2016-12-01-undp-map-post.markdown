@@ -2,7 +2,7 @@
 layout: post
 title:  "马达数据与联合国开发计划署发布可视化互动数据地图"
 date:   2016-12-01 10:49:00+08:00
-categories: news
+categories: 马达动态
 tags: 马达数据 联合国 可视化 数据 地图
 image: /images/2016/12/1/undp.png
 ---
